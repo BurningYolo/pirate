@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle1
+  - Obstacle2
+  - Obstacle3
+  - Obstacle4
+  - Obstacle5
+  - Obstacle6
+  - ObstacleLine
+  - Obstacle7
+  - Obstacle8
+  - hurdle
+  - hurdle_back
+  - hurdle_back1
+  - hurdle_back2
+  - bounds
+  - Obstacle_Paint
+  - Jump_Obstacle
+  - bot1
+  - bot2
+  - bot3
+  - cannonballs
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - cannons
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
